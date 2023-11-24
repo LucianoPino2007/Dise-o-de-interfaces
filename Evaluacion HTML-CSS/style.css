@@ -1,0 +1,49 @@
+
+body{
+    display: contents;
+    margin: 0% 0% 0% 0%;
+}
+    
+    
+    
+header{
+    margin: 0% 0% 0% 0%;
+    background-color: cyan;
+}
+
+main{
+    margin: 0% 0% 0% 0%;
+    background-color:crimson;
+    text-align: center;
+}
+
+footer{
+    margin: 0% 0% 0% 0%;
+    background-color: aqua;
+}
+
+h1{
+    color: rgb(151, 0, 106);
+}
+
+label{
+    color: aqua;
+}
+
+th{
+    color: aqua;
+}
+
+tbody{ 
+    color: aqua;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+}
+
+h3{ 
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+}
